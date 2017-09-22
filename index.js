@@ -17,7 +17,7 @@ function fetch(cb) {
       const result = parseFloat(matches[1]);
       cb(null, result);
     });
-    resp.on('end', (e) => {
+    resp.on('error', (e) => {
       cb(e, null);
     });
   });
