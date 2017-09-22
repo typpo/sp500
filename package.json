@@ -1,0 +1,8 @@
+{
+  "name": "snp_500",
+  "version": "1.0.0",
+  "description": "Fetches the current S&P 500 value",
+  "main": "index.js",
+  "author": "Ian Webster",
+  "license": "MIT"
+}
