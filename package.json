@@ -1,7 +1,7 @@
 {
-  "name": "snp_500",
+  "name": "snp500",
   "version": "1.0.0",
-  "description": "Fetches the current S&P 500 value",
+  "description": "Fetches the current S&P 500 price from Yahoo Finance API.",
   "main": "index.js",
   "author": "Ian Webster",
   "license": "MIT"
