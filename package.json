@@ -1,5 +1,5 @@
 {
-  "name": "snp500",
+  "name": "sp500",
   "version": "1.0.0",
   "description": "Fetches the current S&P 500 price from Yahoo Finance API.",
   "main": "index.js",
