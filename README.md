@@ -33,3 +33,4 @@ setInterval(() => {
 
 // Eventually
 sp500.stopPolling();
+```
