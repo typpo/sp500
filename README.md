@@ -18,6 +18,7 @@ const sp500 = require('sp500');
 sp500.fetch((err, result) => {
   console.log('Current value is:', result);
 });
+```
 
 Constant updates via `getMostRecent`:
 
