@@ -4,5 +4,6 @@
   "description": "Fetches the current S&P 500 price from Yahoo Finance API.",
   "main": "index.js",
   "author": "Ian Webster",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/typpo/sp500"
 }
