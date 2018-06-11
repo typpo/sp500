@@ -1,6 +1,6 @@
 {
   "name": "sp500",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Fetches the current S&P 500 price from Yahoo Finance API.",
   "main": "index.js",
   "author": "Ian Webster",
