@@ -3,6 +3,8 @@ sp500
 
 This npm module provides a simple interface to fetch the current price of the S&P500 from the Yahoo Finance API.
 
+It's used by my [Inflation Calculator](https://www.officialdata.org) website, in particular the section on Real S&P return.
+
 # Install
 
 ```
